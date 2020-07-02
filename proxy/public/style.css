@@ -1,0 +1,13 @@
+#footer {
+  display: flex;
+  height: 377px;
+  background-color: black;
+  justify-content: center;
+}
+
+.footer-container {
+  height: 100%;
+  width: 1174px;
+  background-image: url("footer.jpg");
+  background-size: contain;
+}
