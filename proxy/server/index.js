@@ -17,3 +17,4 @@ server.listen(port, () => console.log(`App listening at http://localhost:${port}
 server.use('/', express.static(path.join(__dirname, '../public')));
 
 const reviews = require('../../reviews-module/server/index.js');
+const related = require('../../related-module/server/index.js');
