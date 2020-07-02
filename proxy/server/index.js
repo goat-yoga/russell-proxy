@@ -18,3 +18,4 @@ server.use('/', express.static(path.join(__dirname, '../public')));
 
 const reviews = require('../../reviews-module/server/index.js');
 const related = require('../../related-module/server/index.js');
+const navbar = require('../../navbar-module/server/index.js');
