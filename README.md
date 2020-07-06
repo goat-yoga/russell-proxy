@@ -4,10 +4,9 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/goat-yoga/rizwan-proxy
+  - https://github.com/goat-yoga/kimberly-proxy
+  - https://github.com/goat-yoga/wilson_proxy
 
 ## Table of Contents
 
@@ -17,7 +16,8 @@
 
 ## Usage
 
-> Some usage instructions
+- Navigate into the proxy folder and run the command 'npm start'.
+- Open up http://localhost:3000 in the browser.
 
 ## Requirements
 
