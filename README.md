@@ -6,7 +6,8 @@
 
   - https://github.com/goat-yoga/rizwan-proxy
   - https://github.com/goat-yoga/kimberly-proxy
-  - https://github.com/goat-yoga/wilson_proxy
+  - https://github.com/goat-yoga/wilson-proxy
+  - https://github.com/goat-yoga/russell-proxy
 
 ## Table of Contents
 
@@ -16,6 +17,7 @@
 
 ## Usage
 
+- If any front-end changes are made to a service you must re-compile that service. Run the script to compile files from the corresponding service folder.
 - Navigate into the proxy folder and run the command 'npm start'.
 - Open up http://localhost:3000 in the browser.
 
