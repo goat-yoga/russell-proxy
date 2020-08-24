@@ -4,10 +4,10 @@
 
 ## Related Projects
 
-  - https://github.com/goat-yoga/rizwan-proxy
-  - https://github.com/goat-yoga/kimberly-proxy
-  - https://github.com/goat-yoga/wilson-proxy
-  - https://github.com/goat-yoga/russell-proxy
+  - https://github.com/goat-yoga/rizwan-service-actual
+  - https://github.com/goat-yoga/kimberly-service
+  - https://github.com/goat-yoga/wilson_service
+  - https://github.com/goat-yoga/russell-service
 
 ## Table of Contents
 
