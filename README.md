@@ -1,6 +1,6 @@
 # Project Name
 
-> Project description
+> A single-page clone of an Alo Yoga product page.
 
 ## Related Projects
 
@@ -12,8 +12,8 @@
 ## Table of Contents
 
 1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+2. [Requirements](#requirements)
+3. [Development](#development)
 
 ## Usage
 
