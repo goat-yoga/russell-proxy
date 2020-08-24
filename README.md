@@ -17,8 +17,9 @@
 
 ## Usage
 
+- Navigate to each module folder, install each of their dependencies, seed mock-up data, and bundle jsx files
 - If any front-end changes are made to a service you must re-compile that service. Run the script to compile files from the corresponding service folder.
-- Navigate into the proxy folder and run the command 'npm start'.
+- Navigate into the proxy folder and run the command `npm start`.
 - Open up http://localhost:3000 in the browser.
 
 ## Requirements
